@@ -66,6 +66,7 @@ I am an analytical, detail-oriented, results-driven graduate, passionate about W
 <a href="https://www.linkedin.com/in/omkar-londhe-495956224/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Omkar" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/imomkarlondhe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/imomkarlondhe" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/17525251/omkar-londhe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/17525251/omkar-londhe" height="30" width="40" /></a> 
+<a href="https://codepen.io/omkaar1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/omkaar1" height="30" width="40" /></a>
 </p>
       
 <div align="center">
