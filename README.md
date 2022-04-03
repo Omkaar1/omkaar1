@@ -43,7 +43,7 @@ I am an analytical, detail-oriented, results-driven graduate, passionate about W
       <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="55" height="55" marginleft="15"/>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Boostrap" width="55" height="55"marginleft="15"/>
       <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="herolu" width="55" height="55" marginleft="15"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="55" height="55" marginleft="15"/>
+      <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="55" height="55" marginleft="15"/> </a>
 </p>
 <hr/>
 
